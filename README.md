@@ -94,6 +94,6 @@ luxmotors/
 
 ## 📞 Contacto
 
-- Portfolio: [Ricki.dev](https://ricki.dev)
+- Portfolio: [MiWeb](https://ricki-cv.vercel.app/)
 - LinkedIn: [Ricardo Vargas Barral](https://linkedin.com/in/ricardo-vargas-barral-0a3891289)
 - GitHub: [RickiPy](https://github.com/RickiPy)
